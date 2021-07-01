@@ -22,3 +22,35 @@ keyon
 ```
 To Enable Your Keybord.
 
+
+## Install
+```
+sudo apt install git -y
+```
+For Debain .
+For Other distro 
+Just Download Git
+
+#### Clone Repository
+```
+git clone https://github.com/De-Shoha/KeyOff.git
+```
+
+#### Go to KeyOff Folder
+```
+cd KeyOff/
+```
+
+#### Change Permission of install.sh
+```
+chmod +x install.sh
+```
+
+#### Run install.sh
+```
+./install.sh
+```
+##### Or
+```
+bash install.sh
+```
