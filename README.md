@@ -1,6 +1,8 @@
 
 # KeyOff
 ### [*] this can enable Or Disable your laptop keybord...
+disable Your keybord in linux ..
+kali linux(Tested)
 
 Having Problem With your keybord .. or do you want to disable your laptops keybord . look no further..
 this program can help you..
@@ -57,6 +59,4 @@ bash install.sh
 
 
 ### Created By De-Shoha
-```
-#### Email- eshoha
-```
+#### Email:- deshoha@gmail.com
