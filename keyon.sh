@@ -46,7 +46,7 @@ else
 	
 	xinput reattach $key_id $master_no
 	echo "[*] Done Turning On your KeyBord..."
-	echo "[*] You can turn it off by typing 'keyoff'"
+	echo "[*] You can turn it off by typing 'keyoff or /opt/KeyOff/keyoff.sh'"
 	notify-send KeyOff  "Laptop's KeyBord Has Been Turned On"
 fi
 
