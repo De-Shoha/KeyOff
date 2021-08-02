@@ -43,7 +43,7 @@ if  [[ $master_no_not_tested =~ $re ]] ; then
    echo "[*] Your Key Bord Is Onn..\n[*] It was never turned off.."
    notify-send KeyOff  "Laptop's KeyBord Is On..It was never turned off.."
 else
-	
+#Info	
 	xinput reattach $key_id $master_no
 	echo "[*] Done Turning On your KeyBord..."
 	echo "[*] You can turn it off by typing 'keyoff or /opt/KeyOff/keyoff.sh'"
