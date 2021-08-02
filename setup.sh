@@ -1,6 +1,5 @@
 #!/bin/bash
 echo "[*] Moving FIles TO /opt"
-
 dirr=$(cd .. && pwd)
 #echo $dirr
 cd $dirr
