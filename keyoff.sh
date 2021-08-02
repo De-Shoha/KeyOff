@@ -52,10 +52,10 @@ xinput -float $key_id ;
 
 if [[ $master_no_not_tested == "floating slave" ]] ; then
 	echo "[*] Keybord Is Already Turned Off"
-	notify-send KeyOff  "Laptop's Keybord is already turned off.. try: 'alt + a'"
+	notify-send KeyOff  "Laptop's Keybord is already turned off.. try: 'keyon or /opt/KeyOff/keyon.sh'"
 else
 	echo "[*] Done Turning Off"
-	notify-send KeyOff  "Laptop's Keybord is off.. try: 'alt + a'"
+	notify-send KeyOff  "Laptop's Keybord is off.. try: 'keyon or /opt/KeyOff/keyon.sh'"
 	
 
 fi
