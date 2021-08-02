@@ -16,7 +16,7 @@ sudo cp keyoff /bin ;
 
 echo "Installing "
 echo -ne '###                           (1 sec)\r'
-
+bash setup.sh
 sleep 1
 echo -ne '######                        (2 sec)\r'
 sleep 1
