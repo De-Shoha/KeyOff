@@ -63,7 +63,7 @@ fi
 echo "[*] To Turn it on use :"
 cd
 master_no=$(cat .master_no.txt)
-echo "[*] 'keyon'"
+echo "[*] 'keyon Or /opt/KeyOff/keyon.sh'"
 echo "[*] xinput reattach $key_id $master_no"
 
 
